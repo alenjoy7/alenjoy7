@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Alenjoy 👋✨
 
-<!--
-**alenjoy7/alenjoy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Here are some ideas to get you started:
+I'm a fullstack developer focused on:
+- 🛠️ Next.js, Tailwind CSS, Node.js, Prisma, PostgreSQL, MongoDB
+- ⚛️ React, Fastify, Mantine, BullMQ
+- ☁️ AWS, 🖇️ Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find Me Here 🌐
+
+- 🚀 [Portfolio](https://alenjoy.fun/)
+- 💼 [LinkedIn](http://linkedin.com/in/alenjoy-7)
+
+## Interests 🎬📚🖤
+
+Love manhwa, anime, movies, and series!
