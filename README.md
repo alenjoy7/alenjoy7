@@ -9,7 +9,7 @@ I'm a fullstack developer focused on:
 
 ## Find Me Here 🌐
 
-- 🚀 [Portfolio](https://alenjoy.fun/)
+- 🚀 [Portfolio](https://alenjoy.dev/)
 - 💼 [LinkedIn](http://linkedin.com/in/alenjoy-7)
 
 ## Interests 🎬📚🖤
